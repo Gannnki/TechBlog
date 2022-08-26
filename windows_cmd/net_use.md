@@ -59,4 +59,4 @@ def open_data_from_net(self, target_dir):
         except:  
             continue
 ```
-Stackoverflow 上面很多的问题看了之后还是一知半解，最后自己瞎
+Stackoverflow 上面很多的问题看了之后还是一知半解，最后自己尝试了这个stupid but works的方法解决了报错。
